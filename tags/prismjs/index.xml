@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PrismJS on Sozezzo notes</title>
-    <link>http://localhost:1313/site/tags/prismjs/</link>
+    <link>https://www.sozezzo.com:443/tags/prismjs/</link>
     <description>Recent content in PrismJS on Sozezzo notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2000-{year}. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/site/tags/prismjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sozezzo.com:443/tags/prismjs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PrismJS Test</title>
-      <link>http://localhost:1313/site/posts/prism-post-test/</link>
+      <link>https://www.sozezzo.com:443/posts/prism-post-test/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/site/posts/prism-post-test/</guid>
+      <guid>https://www.sozezzo.com:443/posts/prism-post-test/</guid>
       <description>12select*frommytable3wherecol=124testing&amp;hellip;</description>
     </item>
     

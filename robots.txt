@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1313/site/sitemap.xml
+Sitemap: https://www.sozezzo.com:443/sitemap.xml
